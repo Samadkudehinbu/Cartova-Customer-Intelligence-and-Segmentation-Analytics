@@ -4,7 +4,7 @@
 ---
 🔗 **[View Live Report](https://app.powerbi.com/view?r=eyJrIjoiZGI3ZWM3ZmItNjFkMS00MWIyLTlmMWUtMGVjOTk2MjY1Mjg0IiwidCI6IjgxMTQ1ZWNkLTc5NTAtNDk4Ny1hOGFmLTJhMDY1YTgwMWVhYyJ9)** &nbsp;|&nbsp; 📃
 **[Dataset](Dataset.xlsx)** &nbsp;|&nbsp; 📖
-**[Medium Article]()**
+**[Medium Article](https://medium.com/@kudehinbusamad/cartova-customer-intelligence-segmentation-analytics-a-power-bi-case-study-135a2461e4af)**
 ---
 ## 🧭 Project Overview
 
