@@ -2,7 +2,10 @@
 > A customer intelligence project analyzing 11,332 Cartova retail customers across demographics, purchase behavior, loyalty tiers, and satisfaction — built as a three-page interactive Power BI dashboard for the May 2026 PowerBI Initiative Monthly Challenge.
 
 ---
-
+🔗 **[View Live Report](https://app.powerbi.com/view?r=eyJrIjoiZGI3ZWM3ZmItNjFkMS00MWIyLTlmMWUtMGVjOTk2MjY1Mjg0IiwidCI6IjgxMTQ1ZWNkLTc5NTAtNDk4Ny1hOGFmLTJhMDY1YTgwMWVhYyJ9)** &nbsp;|&nbsp; 📃
+**[Dataset](Dataset.xlsx)** &nbsp;|&nbsp; 📖
+**[Medium Article]()**
+---
 ## 🧭 Project Overview
 
 Cartova is a growing retail brand with a customer base spanning multiple generations, income levels, and geographic regions. Leadership needed answers to a core set of business questions: who are their most valuable customers, what drives loyalty, where is satisfaction slipping, and which customers are at risk of leaving?
@@ -39,7 +42,8 @@ Cartova communicates across four channels — email, SMS, phone, and in-person �
 **Source:** PowerBI Initiative — May Challenge Dataset  
 **Records:** 11,332 unique customers (filtered from 12,145 raw records after cleaning)  
 **Time Coverage:** Membership start dates from 2014 through 2023; last purchase dates through August 2024
-You can download the dataset here.
+
+You can download the dataset [here](Dataset.xlsx).
 
 ### Fields
 
